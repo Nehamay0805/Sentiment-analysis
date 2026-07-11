@@ -1,2 +1,4 @@
 vaderSentiment
 youtube-transcript-api
+requests
+beautifulsoup4
